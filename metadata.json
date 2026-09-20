@@ -1,0 +1,6 @@
+{
+  "name": "Medicine Information & Management System",
+  "description": "Enterprise Medicine Information & Management System with Spring Boot 3 architecture, live customer & admin portals, stock alerts, prescription approvals, and full project codebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
